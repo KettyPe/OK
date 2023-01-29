@@ -1166,7 +1166,7 @@ body {
     padding: 22px 34px;
   }
   .column-services__top {
-    padding: 30px 24px;
+    padding: 30px 20px;
   }
   .row-services {
     font-size: 14px;
@@ -1413,7 +1413,7 @@ body {
 }
 @media (max-width: 350px) {
   .info__item {
-    width: 96%;
+    width: 90%;
   }
 }
 .why {
